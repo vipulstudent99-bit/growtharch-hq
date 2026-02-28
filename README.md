@@ -7,11 +7,11 @@
 
 ## What We Are Building
 
-AI-powered growth agency for dental clinics. We build **patient acquisition systems** — landing page + Google SEO + WhatsApp automation — for local dental clinics in Virar, Vasai, and Nalasopara, Maharashtra, India.
+AI-powered growth agency for dental clinics. We build **patient acquisition systems** — landing page + Google SEO + WhatsApp automation — for local dental clinics in Virar, Vasai, and Nalasopara,mumbai, Maharashtra, India.
 
 **Founder:** Zack (Vipul Malviya) — 23-year-old AI Generalist, Nala Sopara, Maharashtra
 
-**Positioning:** Not a "website guy" — a **growth partner** who delivers consistent patient inflow through Google.
+**Positioning:** Not a "website guy" — a **growth partner** who delivers consistent patient+highvalue patient inflow through Google.
 
 ---
 
